@@ -31,9 +31,9 @@ The goal is not to predict the exact review score, but to classify orders into:
 
 
 
-\- \*\*Low Risk\*\* — less likely to receive a bad review
+Low Risk — less likely to receive a bad review
 
-\- \*\*High Risk\*\* — more likely to receive a bad review
+High Risk — more likely to receive a bad review
 
 
 
@@ -529,7 +529,7 @@ Final test-set confusion matrix at the selected threshold:
 
 ```text
 
-\[\[13732  3113]
+[13732  3113]
 
-&#x20;\[ 1735  1155]]
+[01735  1155]]
 
